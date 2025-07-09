@@ -1,2 +1,2 @@
-# calculator
-calculator
+Calculator
+This is a basic web calculator built using HTML, CSS, and JavaScript. It supports all standard operations like addition, subtraction, multiplication, and division. It also includes functionality for decimals, backspace, and error handling.
